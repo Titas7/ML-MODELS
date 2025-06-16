@@ -1,3 +1,4 @@
+#Exploring the performance of various ml models for binary classificaion tasks
 🚀 Exploring Machine Learning Model Performance for Binary Classification
 This project, conducted under the guidance of Professor Bapuji Kanaparthi, focuses on evaluating the performance of six different machine learning models for a binary classification task using customer response data. The project involved comprehensive data preprocessing, feature engineering, exploratory data analysis (EDA), model training, and a detailed comparison of key evaluation metrics.
 
